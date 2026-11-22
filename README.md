@@ -20,3 +20,6 @@ my_first_repo/
 └── .gitignore
 
 
+
+## Description
+CSE103 lab repository - LAB 3.
